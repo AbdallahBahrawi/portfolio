@@ -57,7 +57,7 @@
     }
 }
 /* ************************* MEDIA QUERIES (SMALL DEVICES)*************** */
-@media screen and (max-width: 600){
+@media screen and (max-width: 600px){
     .experience_container {
         gap: 1rem;
     }
